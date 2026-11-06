@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Glowing Aviatec Supersonic Flight Mark (100% Transparent Background) -->
+  <g transform="translate(32, 33) scale(1.75) translate(-17, -15)">
+    <!-- Aviation Wing (Electric Blue) -->
+    <path d="M2 19.5 C 8 19.5, 13.5 12, 17 3 C 20.5 12, 26 19.5, 32 19.5" 
+          stroke="#0088FF" 
+          stroke-width="4.8" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" 
+          fill="none"/>
+    <!-- Logistics Speed Swoosh (Vibrant Flame Orange) -->
+    <path d="M2 25 C 9.5 25, 15.5 18, 19.5 8" 
+          stroke="#FF5500" 
+          stroke-width="4.8" 
+          stroke-linecap="round" 
+          fill="none"/>
+    <!-- Apex Core Star Accent -->
+    <circle cx="17" cy="3" r="2.2" fill="#00D2FF"/>
+  </g>
+</svg>

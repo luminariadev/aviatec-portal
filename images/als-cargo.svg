@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <circle cx="25" cy="30" r="18" stroke="#FFFFFF" stroke-width="3" fill="#FFFFFF" fill-opacity="0.15"/>
+  <text x="14" y="36" font-family="'Satoshi', sans-serif" font-size="16" font-weight="900" fill="#FFFFFF">ALS</text>
+  <text x="55" y="32" font-family="'Satoshi', sans-serif" font-size="15" font-weight="900" fill="#FFFFFF" letter-spacing="1">PT. ALS</text>
+  <text x="55" y="46" font-family="'Satoshi', sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" fill-opacity="0.8" letter-spacing="1.5">ANTAR LINTAS SUMATERA</text>
+</svg>

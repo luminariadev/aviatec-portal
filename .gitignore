@@ -1,0 +1,10 @@
+# Dependencies & Build
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+
+# Environment & Vercel
+.env
+.env*.local
+.vercel/

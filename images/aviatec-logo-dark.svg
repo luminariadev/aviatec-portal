@@ -1,0 +1,10 @@
+<svg width="142" height="31" viewBox="0 0 142 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wing/Aviation Logo Mark -->
+  <g transform="translate(2, 2)">
+    <path d="M1 21 C 7 21, 14 14, 18 3 C 21 14, 27 21, 33 21" stroke="#0284C7" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+    <path d="M1 25 C 9 25, 17 19, 21 9" stroke="#EA580C" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="42" y="16.5" font-family="'Satoshi', sans-serif" font-size="13.5" font-weight="900" fill="#0F172A" letter-spacing="1.2">AVIATEC</text>
+  <text x="43" y="25.5" font-family="'Satoshi', sans-serif" font-size="5.2" font-weight="700" fill="#475569" letter-spacing="2.2">ARTHA KENCANA</text>
+</svg>

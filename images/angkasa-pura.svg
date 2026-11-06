@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <rect x="5" y="10" width="40" height="40" rx="8" fill="#FFFFFF" fill-opacity="0.15"/>
+  <path d="M12 36 L25 18 L38 36 L30 36 L25 28 L20 36 Z" fill="#FFFFFF"/>
+  <text x="55" y="32" font-family="'Satoshi', sans-serif" font-size="14" font-weight="900" fill="#FFFFFF" letter-spacing="1">ANGKASA PURA</text>
+  <text x="55" y="46" font-family="'Satoshi', sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" fill-opacity="0.8" letter-spacing="1.5">SUPPORT &amp; LOGISTIK</text>
+</svg>

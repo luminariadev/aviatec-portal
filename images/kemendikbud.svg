@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <circle cx="25" cy="30" r="18" fill="#FFFFFF" fill-opacity="0.15"/>
+  <path d="M15 34 L25 18 L35 34 L25 29 Z" fill="#FFFFFF"/>
+  <text x="55" y="32" font-family="'Satoshi', sans-serif" font-size="13" font-weight="900" fill="#FFFFFF" letter-spacing="1">KEMENDIKBUD</text>
+  <text x="55" y="46" font-family="'Satoshi', sans-serif" font-size="10" font-weight="700" fill="#FFFFFF" fill-opacity="0.8" letter-spacing="1">PELATIHAN VOKASI</text>
+</svg>
